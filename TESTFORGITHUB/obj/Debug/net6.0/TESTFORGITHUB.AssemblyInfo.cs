@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TESTFORGITHUB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b37dd655391ba76a76c421ac9b71f9db501a62")]
 [assembly: System.Reflection.AssemblyProductAttribute("TESTFORGITHUB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TESTFORGITHUB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
