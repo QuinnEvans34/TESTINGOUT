@@ -1,0 +1,14 @@
+C:\Neumont\AppDev\TESTFORGITHUB\bin\Debug\net6.0\TESTFORGITHUB.exe
+C:\Neumont\AppDev\TESTFORGITHUB\bin\Debug\net6.0\TESTFORGITHUB.deps.json
+C:\Neumont\AppDev\TESTFORGITHUB\bin\Debug\net6.0\TESTFORGITHUB.runtimeconfig.json
+C:\Neumont\AppDev\TESTFORGITHUB\bin\Debug\net6.0\TESTFORGITHUB.dll
+C:\Neumont\AppDev\TESTFORGITHUB\bin\Debug\net6.0\TESTFORGITHUB.pdb
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\TESTFORGITHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\TESTFORGITHUB.AssemblyInfoInputs.cache
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\TESTFORGITHUB.AssemblyInfo.cs
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\TESTFORGITHUB.csproj.CoreCompileInputs.cache
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\TESTFORGITHUB.dll
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\refint\TESTFORGITHUB.dll
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\TESTFORGITHUB.pdb
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\TESTFORGITHUB.genruntimeconfig.cache
+C:\Neumont\AppDev\TESTFORGITHUB\obj\Debug\net6.0\ref\TESTFORGITHUB.dll
