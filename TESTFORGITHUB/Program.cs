@@ -30,4 +30,6 @@ namespace TESTFORGITHUB
         Console.WriteLine(hello);
     }
     }
+}
 
+// I HATE GITHUB
