@@ -1,4 +1,6 @@
-﻿namespace TESTFORGITHUB
+﻿using System.Reflection.Metadata;
+
+namespace TESTFORGITHUB
 {
     internal class Program
     {
@@ -9,6 +11,8 @@
             PrintHello("SUP");
 
             newPush("HELLO");
+
+            testfornow("hello");
         }
 
         static void PrintHello(string hello)
@@ -20,5 +24,10 @@
         {
             Console.WriteLine(new);
         }
+
+        static void testfornow(string hello)
+    {
+        Console.WriteLine(hello);
     }
-}
+    }
+
